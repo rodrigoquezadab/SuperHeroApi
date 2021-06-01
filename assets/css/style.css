@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.header-image {
+  background-image: url(/assets/img/sh1.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 350px;
+  height: 350px;
+  width: auto;
+}
+
+.img-link {
+  padding: 5px;
+}
+
+.container {
+  align-items: center;
+  text-align: center;
+}
